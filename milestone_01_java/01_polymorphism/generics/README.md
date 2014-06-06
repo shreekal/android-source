@@ -1,6 +1,6 @@
 ## Generics
 
-Open your command prompt and `cd` into this README's directory (generics). Edit `Main.java`, put a bunch of **Toy**s in the **ToyBox** by creating several **Toy** instances using the classes found in the `com.bloc.generics.things` package.
+Open your command prompt and `cd` into this README's directory (`generics`). Edit `Main.java`, put a bunch of `Toy`s in the `ToyBox` by creating several `Toy` instances using the classes found in the `com.bloc.generics.things` package.
 
 After you've finished, compile your code by running the following command:
 
@@ -17,7 +17,7 @@ $ cd bin/
 From within bin, execute your code by running the following command:
 
 ``` bash
-$ java com.bloc.generics.Main
+$ java -ea com.bloc.generics.Main
 ```
 
 If you see a nice congrats message, you've successfully added toys to your toy box!
